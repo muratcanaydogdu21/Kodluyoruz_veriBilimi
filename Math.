@@ -1,0 +1,19 @@
+Logaritma Nedir?
+
+Matematik dünyasında, bazen sayıların büyüklüğünü veya büyüme hızını daha kolay anlamak ve işlemek için logaritma kullanırız. Logaritma, özellikle büyük sayılarla çalışırken işlerimizi kolaylaştırır. Peki, logaritma tam olarak nedir ve nasıl çalışır?
+
+Logaritma, bir sayının başka bir sayının hangi üs (üs değeri) olduğunu bulmamıza yardımcı olan bir matematiksel işlemdir. Logaritma işlemini daha iyi anlamak için "log" sembolünü kullanırız ve genellikle "log" veya "logaritma" olarak ifade edilir.
+
+Örneğin, logaritma işlemiyle "10 tabanında logaritma" ifadesini ele alalım. Bu, bir sayının 10'un üssü olarak ifade edilip edilmeyeceğini belirlememize yardımcı olur. Yani, logaritma işlemi şu şekildedir:
+
+log10(x) = y
+
+Burada x, hangi sayının 10'un üssü olduğunu bulmaya çalıştığımız sayıdır. y ise bu üssün değeridir. Örneğin, logaritma işlemi ile 100'ün 10 tabanında logaritması şu şekildedir:
+
+log10(100) = 2
+
+Bu, 100'ün 10'un karesi olduğunu gösterir.
+
+Logaritma işlemi, özellikle büyük sayılarla işlem yaparken çok kullanışlıdır çünkü büyük sayıların düzensiz büyüme hızını daha rahat anlamamıza olanak tanır. Ayrıca, logaritma işlemi birçok matematiksel problemin çözümünde ve bilim alanlarında kullanılır.
+
+Özetle, logaritma, bir sayının başka bir sayının hangi üssü olduğunu bulmamıza ve büyük sayıları daha kolay anlamamıza yardımcı olan güçlü bir matematiksel araçtır. Bu nedenle, matematiksel problemleri çözerken ve büyük verilerle çalışırken logaritma kavramını anlamak oldukça faydalıdır.
