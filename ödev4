@@ -1,0 +1,13 @@
+select  distinct replacement_cost from film;
+ 
+ select count (DISTINCT replacement_cost) from film;
+ 
+ select count (title) from film
+ where(title LIKE 'T%') AND (rating='G');
+ 
+SELECT COUNT(country) FROM Country 
+WHERE length(country) = 5;
+
+
+SELECT COUNT(city) FROM City 
+WHERE city ILIKE '%r'
