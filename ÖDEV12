@@ -1,0 +1,4 @@
+1) SELECT COUNT(*) FROM film WHERE length &gt; (SELECT AVG(length) FROM film); 2) 
+SELECT COUNT(*) FROM film WHERE rental_rate = (SELECT MAX(rental_rate) FROM film); 
+3) SELECT * FROM film WHERE (rental_rate = (SELECT MIN(rental_rate) FROM film) AND replacment_cost = (SELECT MIN(rental_rate) FROM film)); 
+4) SELECT customer FROM payment WHERE amount = (SELECT MAX(amount) from payment);
